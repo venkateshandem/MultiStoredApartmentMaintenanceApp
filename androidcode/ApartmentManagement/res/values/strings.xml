@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApartmentManagement</string>
+    <string name="message_send">SendMessage</string>
+    <string name="addUser">AddUser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_add_user">AddUser</string>
+
+</resources>
